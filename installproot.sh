@@ -73,7 +73,7 @@ if echo "$TERMUX_VERSION" | grep -q '^googleplay\.'; then
 	print_yellow "Check out below URL here:"
 	print_yellow "https://github.com/termux/termux-app/discussions/4000"
 	print_yellow "Termux dev team recommended you to use Github or"
-	print_yellow "F-droid instead of Google Play store version."
+	print_yellow "F-Droid instead of Google Play store version."
 	print_yellow "Also, I don't test my script on GP version, so you"
 	print_yellow "may get some issues that I don't have that in GH/FD"
 	exit 1
